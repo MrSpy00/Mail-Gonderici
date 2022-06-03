@@ -1,2 +1,2 @@
-# Mail-G-nderici-
+# Mail-Gonderici
 Kolay yoldan mail göndermeye yarar.
